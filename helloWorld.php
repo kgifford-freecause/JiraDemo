@@ -5,4 +5,4 @@
  * @todo add more functionality to helloWorld
  */
 
-echo 'Hello World!';
+echo 'Hello world at Freecause!';
